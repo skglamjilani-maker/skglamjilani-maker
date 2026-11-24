@@ -12,16 +12,16 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a **Bachelor of Computer Applications (BCA) Graduate**
-- 💻 I'm passionate about **Software Development**
-- 📱 I'm interested in **Android App Development**
-- 🌐 I'm learning and exploring **Web Development**
-- 🚀 I love building projects and learning new technologies
-- 💡 My goal is to turn ideas into useful applications
+- 🎓 Bachelor of Computer Applications (BCA) Graduate
+- 💻 Passionate about Software Development
+- 📱 Interested in Android App Development
+- 🌐 Exploring Web Development
+- 🚀 Building projects and learning new technologies
+- 💡 Turning ideas into useful applications
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
 <div align="center">
 
@@ -31,16 +31,13 @@
 
 ---
 
-## 🚀 My Projects
+## 🚀 What I'm Working On
 
-### 📱 Android Projects
-Building Android applications using modern development technologies.
-
-### 🌐 Web Projects
-Creating responsive and useful web applications.
-
-### 💻 Personal Projects
-Learning by building real-world projects and improving my development skills.
+- 📱 Android App Development
+- 🌐 Web Development
+- 💻 Software Development
+- 📚 Learning new technologies
+- 🔥 Building real-world projects
 
 ---
 
@@ -76,24 +73,24 @@ Learning by building real-world projects and improving my development skills.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.instagram.com/Shaikh_Zilani_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 My Goals
 
 ```text
-✅ Complete BCA
-🚀 Build more real-world projects
-📱 Improve Android Development
-🌐 Improve Web Development
-💻 Become a better Software Developer
+🚀 Build amazing projects
+📱 Become a better Android Developer
+🌐 Improve Web Development skills
+💻 Grow as a Software Developer
 📚 Learn new technologies
+🔥 Keep building and improving
